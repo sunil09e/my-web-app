@@ -3,7 +3,7 @@ version: 0.2
 phases:
   install:
     commands:
-      - echo "Installing dependencies (none for static site)"
+      - echo "No dependencies to install for static site"
   build:
     commands:
       - echo "Build phase - nothing to build for static site"
